@@ -1,0 +1,31 @@
+{
+	"addresses": [
+		{
+			"id": 1,
+			"firstName": "John",
+			"lastName": "Cena",
+			"city": "California",
+			"state": "DontKnow",
+			"zip": 4567867,
+			"phoneNumber": 9876548765
+		},
+		{
+			"id": 2,
+			"firstName": "Rey",
+			"lastName": "Mysterio",
+			"city": "MaxicanCity",
+			"state": "Maxico",
+			"zip": 567899,
+			"phoneNumber": 876548765
+		},
+		{
+			"id": 3,
+			"firstName": "Dave",
+			"lastName": "Batista",
+			"city": "WashingtonDC",
+			"state": "dontknow",
+			"zip": 4578678,
+			"phoneNumber": 876543567
+		}
+	]
+}

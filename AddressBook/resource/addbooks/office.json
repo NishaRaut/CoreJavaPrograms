@@ -1,0 +1,13 @@
+{
+	"addresses": [
+		{
+			"id": 1,
+			"firstName": "Manju",
+			"lastName": "Bagade",
+			"city": "Pune",
+			"state": "Maharastra",
+			"zip": 765876,
+			"phoneNumber": 987654365
+		}
+	]
+}

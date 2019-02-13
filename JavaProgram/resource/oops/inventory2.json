@@ -1,0 +1,49 @@
+{
+	"inventories": [
+		{
+			"name": "Electronics",
+			"products": [
+				{
+					"name": "Mobile",
+					"quantity": 2.0,
+					"price": 20000.0
+				},
+				{
+					"name": "Television",
+					"quantity": 3.0,
+					"price": 30000.0
+				},
+				{
+					"name": "Fridge",
+					"quantity": 1.0,
+					"price": 100000.0
+				}
+			]
+		},
+		{
+			"name": "Vehicle",
+			"products": [
+				{
+					"name": "Byke",
+					"quantity": 1.0,
+					"price": 100000.0
+				},
+				{
+					"name": "Car",
+					"quantity": 1.0,
+					"price": 1000000.0
+				},
+				{
+					"name": "Scooter",
+					"quantity": 1.0,
+					"price": 50000.0
+				},
+				{
+					"name": "Cycle",
+					"quantity": 1.0,
+					"price": 2000.0
+				}
+			]
+		}
+	]
+}

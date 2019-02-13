@@ -1,0 +1,58 @@
+{
+	"addresses": [
+		{
+			"id": 1,
+			"firstName": "Hari",
+			"lastName": "Om",
+			"city": "Dharawad",
+			"state": "Karnataka",
+			"zip": 585500,
+			"phoneNumber": 9876543210
+		},
+		{
+			"id": 6,
+			"firstName": "Virat",
+			"lastName": "Kohli",
+			"city": "Delhi",
+			"state": "Delhi",
+			"zip": 123456,
+			"phoneNumber": 9876543211
+		},
+		{
+			"id": 2,
+			"firstName": "Raju",
+			"lastName": "Hirani",
+			"city": "Mumbai",
+			"state": "MahaR",
+			"zip": 767890,
+			"phoneNumber": 9990009990
+		},
+		{
+			"id": 5,
+			"firstName": "MahendraSingh",
+			"lastName": "Dhoni",
+			"city": "Ranchi",
+			"state": "Jharkhand",
+			"zip": 123459,
+			"phoneNumber": 1234567899
+		},
+		{
+			"id": 4,
+			"firstName": "Rocky",
+			"lastName": "RockingStar",
+			"city": "Bangalore",
+			"state": "Karnatak",
+			"zip": 876987,
+			"phoneNumber": 987654876
+		},
+		{
+			"id": 3,
+			"firstName": "Ellyse",
+			"lastName": "Perry",
+			"city": "Sydney",
+			"state": "UnknownState",
+			"zip": 876900,
+			"phoneNumber": 678909999
+		}
+	]
+}

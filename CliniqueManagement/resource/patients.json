@@ -1,0 +1,40 @@
+{
+	"patients": [
+		{
+			"id": 1,
+			"name": "Raj",
+			"mobileNumber": "9876543210",
+			"age": 23
+		},
+		{
+			"id": 2,
+			"name": "Sham",
+			"mobileNumber": "9876543211",
+			"age": 24
+		},
+		{
+			"id": 3,
+			"name": "Ram",
+			"mobileNumber": "9876543201",
+			"age": 22
+		},
+		{
+			"id": 4,
+			"name": "Manoj",
+			"mobileNumber": "8765432100",
+			"age": 26
+		},
+		{
+			"id": 5,
+			"name": "Chand",
+			"mobileNumber": "9876543219",
+			"age": 20
+		},
+		{
+			"id": 6,
+			"name": "Samuel",
+			"mobileNumber": "9876543219",
+			"age": 23
+		}
+	]
+}

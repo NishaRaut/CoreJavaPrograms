@@ -1,0 +1,46 @@
+{
+	"doctors": [
+		{
+			"id": 1,
+			"name": "Vinod",
+			"specialization": "Cardiology",
+			"availability": "AM"
+		},
+		{
+			"id": 2,
+			"name": "Sunil",
+			"specialization": "Medicine",
+			"availability": "PM"
+		},
+		{
+			"id": 3,
+			"name": "Suresh",
+			"specialization": "Neurosurgery",
+			"availability": "AM"
+		},
+		{
+			"id": 4,
+			"name": "Puneeth",
+			"specialization": "Pediatrics",
+			"availability": "PM"
+		},
+		{
+			"id": 5,
+			"name": "Bhaskar",
+			"specialization": "Medicine",
+			"availability": "PM"
+		},
+		{
+			"id": 6,
+			"name": "Ayush",
+			"specialization": "Pediatrics",
+			"availability": "AM"
+		},
+		{
+			"id": 7,
+			"name": "Rakshit",
+			"specialization": "Pediatrics",
+			"availability": "AM"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"stocks": [
+		{
+			"name": "Tesla",
+			"numberOfShares": 0,
+			"price": 100.0,
+			"symbol": "Ta"
+		},
+		{
+			"name": "SolarCity",
+			"numberOfShares": 60,
+			"price": 100.0,
+			"symbol": "Sy"
+		},
+		{
+			"name": "Hyperloops",
+			"numberOfShares": 100,
+			"price": 50.0,
+			"symbol": "Hs"
+		},
+		{
+			"name": "MoonExpress",
+			"numberOfShares": 50,
+			"price": 100.0,
+			"symbol": "Ms"
+		},
+		{
+			"name": "Softbank",
+			"numberOfShares": 100,
+			"price": 20.0,
+			"symbol": "Sk"
+		},
+		{
+			"name": "alibaba",
+			"numberOfShares": 100,
+			"price": 50.0,
+			"symbol": "aa"
+		}
+	],
+	"jsonObjName": "stocks"
+}

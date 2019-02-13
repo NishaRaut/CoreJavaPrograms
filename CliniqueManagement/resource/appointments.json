@@ -1,0 +1,84 @@
+{
+	"appointments": [
+		{
+			"appointmentId": 1,
+			"doctorId": 1,
+			"patientId": 1,
+			"specialization": "Cardiology",
+			"availability": "AM",
+			"appointmentDate": "04-02-2019"
+		},
+		{
+			"appointmentId": 2,
+			"doctorId": 4,
+			"patientId": 2,
+			"specialization": "Neurosurgery",
+			"availability": "AM",
+			"appointmentDate": "04-02-2019"
+		},
+		{
+			"appointmentId": 3,
+			"doctorId": 4,
+			"patientId": 4,
+			"specialization": "Pediatrics",
+			"availability": "PM",
+			"appointmentDate": "04-02-2019"
+		},
+		{
+			"appointmentId": 4,
+			"doctorId": 6,
+			"patientId": 5,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "04-02-2019"
+		},
+		{
+			"appointmentId": 5,
+			"doctorId": 1,
+			"patientId": 6,
+			"specialization": "Cardiology",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		},
+		{
+			"appointmentId": 5,
+			"doctorId": 7,
+			"patientId": 1,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		},
+		{
+			"appointmentId": 11,
+			"doctorId": 7,
+			"patientId": 2,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		},
+		{
+			"appointmentId": 18,
+			"doctorId": 7,
+			"patientId": 3,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		},
+		{
+			"appointmentId": 26,
+			"doctorId": 7,
+			"patientId": 4,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		},
+		{
+			"appointmentId": 35,
+			"doctorId": 7,
+			"patientId": 5,
+			"specialization": "Pediatrics",
+			"availability": "AM",
+			"appointmentDate": "06-02-2019"
+		}
+	]
+}

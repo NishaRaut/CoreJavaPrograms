@@ -1,0 +1,65 @@
+{
+	"nameForJson": "StockAccounts",
+	"stockAccounts": [
+		{
+			"name": "Youraj",
+			"balance": 0.0,
+			"companyShares": [
+				{
+					"name": "Tesla",
+					"numberOfShares": 100,
+					"transactionDate": 1549085168304
+				}
+			]
+		},
+		{
+			"name": "Harbhajan",
+			"balance": 5000.0,
+			"companyShares": [
+				{
+					"name": "SolarCity",
+					"numberOfShares": 50,
+					"transactionDate": 1549086262929
+				}
+			]
+		},
+		{
+			"name": "John",
+			"balance": 9500.0,
+			"companyShares": [
+				{
+					"name": "Hyperloops",
+					"numberOfShares": 50,
+					"transactionDate": 1549090858037
+				}
+			]
+		},
+		{
+			"name": "Albert",
+			"balance": 8000.0,
+			"companyShares": [
+				{
+					"name": "MoonExpress",
+					"numberOfShares": 50,
+					"transactionDate": 1549091079983
+				}
+			]
+		},
+		{
+			"name": "Peter",
+			"balance": 1000.0,
+			"companyShares": [
+				{
+					"name": "alibaba",
+					"numberOfShares": 100,
+					"transactionDate": 1549456159957
+				}
+			]
+		},
+		{
+			"name": "Puni",
+			"balance": 10300.0,
+			"companyShares": []
+		}
+	]
+}

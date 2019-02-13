@@ -1,0 +1,2 @@
+ID = 1  FirstName = Raju  LastName = Bhatia  City = Mumbai  State = goa  Zip = 123456  PhoneNumber = 9876543210
+ID = 2  FirstName = Suniel  LastName = Shetty  City = Mangalore  State = Karnataka  Zip = 987987  PhoneNumber = 9876543217

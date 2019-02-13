@@ -1,0 +1,53 @@
+{
+	"Rice": [
+		{
+			"name": "Basmati Rice - Dubar",
+			"weight": 100,
+			"price": 100
+		},
+		{
+			"name": "Basmati Rice - Super",
+			"weight": 100,
+			"price": 120
+		},
+		{
+			"name": "Basmati Rice - Feast",
+			"weight": 100,
+			"price": 80
+		}
+	],
+	"Pulses": [
+		{
+			"name": "Channa Daal",
+			"weight": 20,
+			"price": 50
+		},
+		{
+			"name": "Masoor Daal",
+			"weight": 20,
+			"price": 20
+		},
+		{
+			"name": "Toor Daal",
+			"weight": 50,
+			"price": 100
+		}
+	],
+	"Wheats": [
+		{
+			"name": "Daalia",
+			"weight": 5,
+			"price": 50
+		},
+		{
+			"name": "Gahu Sharbati",
+			"weight": 10,
+			"price": 100
+		},
+		{
+			"name": "Gahu Sihor",
+			"weight": 10,
+			"price": 150
+		}
+	]
+}
